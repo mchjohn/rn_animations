@@ -10,6 +10,7 @@ export default function Home() {
 
       <View style={styles.content}>
         <Button href='/inputsearch' title='Input de pesquisa' />
+        <Button href='/buttonsend' title='Botão: "Enviar"' />
       </View>
     </SafeAreaView>
   )
